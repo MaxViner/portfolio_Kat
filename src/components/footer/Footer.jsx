@@ -8,9 +8,9 @@ import {BsWhatsapp} from 'react-icons/bs'
 const Footer =()=>{
     return(
         <footer>
-            <a href="#" className='footer__logo'>Наверх</a>
+            <a href="#Home" className='footer__logo'>Наверх</a>
             <ul className='permalinks'>
-                <li><a href="#">Главная</a></li>
+                <li><a href="#Home">Главная</a></li>
                 <li><a href="#about">Обо мне</a></li>
                 <li><a href="#experience">Преимущества</a></li>
                 <li><a href="#services">услуги</a></li>

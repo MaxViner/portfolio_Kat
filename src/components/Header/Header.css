@@ -1,6 +1,7 @@
 header{
     height: 140vh;
     overflow: hidden;
+    margin-top: -150px;
 }
 
 .header__container{
