@@ -1,8 +1,4 @@
 import './Services.css'
-<<<<<<< HEAD
-=======
-import {HiBadgeCheck} from 'react-icons/hi'
->>>>>>> master
 const Services =()=>{
     return(
         <section id='services'>
