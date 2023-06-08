@@ -15,7 +15,7 @@ function App() {
       <Helmet>
       <title>Катерина Алымова</title> 
         <meta name="description" content="Катерина Алымова маникюр Курск (Плоское)" /> 
-        {/* <link rel="canonical" href="http://example.com/page" />  */}
+
       </Helmet>
       <Header/>
 

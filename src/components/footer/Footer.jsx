@@ -10,7 +10,7 @@ const Footer =()=>{
         <footer>
             <a href="#Home" className='footer__logo'>Наверх</a>
             <ul className='permalinks'>
-                <li><a href="#Home">Главная</a></li>
+                <li><a href="#Home"> Главная </a> </li>
                 <li><a href="#about">Обо мне</a></li>
                 <li><a href="#experience">Преимущества</a></li>
                 <li><a href="#services">услуги</a></li>
@@ -23,7 +23,7 @@ const Footer =()=>{
          
             <a href="mailto:Anpilogova469@gmail.com" target='_blank' rel="noreferrer">  <MdOutlineAlternateEmail className=''/></a>
 
-            <a href="https://t.me/Katerina_Alymova"><SiMinutemailer className=''/></a>
+            <a href="https://t.me/Katerina_Alymova"><SiMinutemailer className=''/> </a>
             <a href="https://api.whatsapp.com/send?phone=89102112658"> <BsWhatsapp className=''/></a>
 
             </div>
