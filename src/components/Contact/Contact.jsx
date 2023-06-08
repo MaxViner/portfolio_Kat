@@ -32,7 +32,7 @@ const Contact =()=>{
                         <MdOutlineAlternateEmail className='contact__option-icon'/>
                         <h4>Email</h4>
                         <h5>Алымова</h5>
-                        <a href="mailto:Anpilogova469@gmail.com"target='_blank'>Send a message</a>
+                        <a href="mailto:Anpilogova469@gmail.com"target='_blank' rel="noreferrer">Send a message</a>
                     </article>
 
                     <article className='contact__option'>
