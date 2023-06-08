@@ -21,7 +21,7 @@ const Footer =()=>{
 
             <div className="footer__socials">
          
-            <a href="mailto:Anpilogova469@gmail.com" target='_blank'>  <MdOutlineAlternateEmail className=''/></a>
+            <a href="mailto:Anpilogova469@gmail.com" target='_blank' rel="noreferrer">  <MdOutlineAlternateEmail className=''/></a>
             <a href="https://t.me/Katerina_Alymova"><SiMinutemailer className=''/></a>
             <a href="https://api.whatsapp.com/send?phone=89102112658"> <BsWhatsapp className=''/></a>
 

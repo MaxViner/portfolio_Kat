@@ -1,5 +1,4 @@
 import './Services.css'
-import {HiBadgeCheck} from 'react-icons/hi'
 const Services =()=>{
     return(
         <section id='services'>
