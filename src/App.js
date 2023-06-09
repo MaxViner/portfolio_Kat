@@ -8,15 +8,11 @@ import Folio from './components/folio/Folio'
 import Tesstimonials from './components/Testimonals/Tesstimonials';
 import Contact from './components/Contact/Contact';
 import Footer from './components/footer/Footer';
-import { Helmet } from 'react-helmet'; 
+
 function App() {
   return (
     <div className="App">
-      <Helmet>
-      <title>Катерина Алымова</title> 
-        <meta name="description" content="Катерина Алымова маникюр Курск (Плоское)" /> 
-
-      </Helmet>
+     
       <Header/>
 
     
